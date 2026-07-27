@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Paper PDF is not redistributed here -- it states no license and the README
+# links to the ACL Anthology page. Remove this line to include it.
+2023.icon-1.4.pdf
+
+# personal working note, not published
+todo.md
